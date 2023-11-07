@@ -1,2 +1,2 @@
 # HSP-predictions
- XGBoost and GNN training and models for prediction of Hansen solubility parameters
+ XGBoost and GNN training and models for prediction of Hansen solubility parameters for an upcoming paper
