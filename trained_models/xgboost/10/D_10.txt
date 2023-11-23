@@ -1,0 +1,10 @@
+fMF
+AATS2p
+AATS1d
+GATS1v
+VSA_EState8
+SM1_DzZ
+ETA_psi_1
+nHetero
+SMR_VSA5
+ABCGG

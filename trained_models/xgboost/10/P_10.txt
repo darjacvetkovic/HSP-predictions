@@ -1,0 +1,10 @@
+AMID_X
+IC0
+SIC0
+TopoPSA(NO)
+SM1_Dzpe
+PEOE_VSA6
+ATS6p
+BCUTi-1h
+SM1_Dzm
+ETA_dEpsilon_C
