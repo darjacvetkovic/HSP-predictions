@@ -1,0 +1,87 @@
+Name,Smile
+"1,3- butadien",C=CC=C  
+"1,3-BUTANEDIOL",CC(CCO)O
+"1,4 Dioxane",C1COCCO1
+1-Chlorobutane, CCCCCl  
+1-Pentanol,CCCCCO  
+2-Ethyl-1-butanol,CCC(CC)CO
+2-Ethyl-1-hexanol,CCCCC(CC)CO  
+2-Ethylhexyl acrylate,CCCCC(CC)COC(=O)C=C  
+Acetic acid,CC(=O)O  
+Acetone, CC(=O)C  
+Acetonitrile, CC#N  
+Acrylic acid,C=CC(=O)O
+Benzene,C1=CC=CC=C1  
+Carbon tetrachloride, C(Cl)(Cl)(Cl)Cl  
+Chlorobenzene,C1=CC=C(C=C1)Cl 
+Cyclohexane,C1CCCCC1  
+Cyclohexanol,C1CCC(CC1)O
+Cyclohexanone, C1CCC(=O)CC1 
+"Dichloro, difluoromethane",C(F)(F)(F)Cl.C(F)(F)(Cl)Cl.C(F)(F)(Cl)Br  
+Di-ethyl amine,C.C.C.CC(C)N1CCC(C1)(F)F.CC(C)N([CH2-])CC[CH2-].CC(C)N(C[CH2-])C[CH2-].[W+2].[W+2]  
+Diethyl ether, CCOCC  
+Diethyl phthalate,CCOC(=O)C1=CC=CC=C1C(=O)OCC 
+Di-isobutyl-ketone,CC(C)CC(=O)CC(C)C  
+Dimethyl sulfoxide,CS(=O)C  
+Dimethylacetamide,CC(=O)N(C)C  
+Dimethylformamide,CN(C)C=O  
+Di-propyl amine,CCC[C@H]1[C@H](CCC2=C1C(=CC=C2)OC)NCCC.CON.Cl 
+Ethanol, CCO  
+Ethyl acrylate,CCOC(=O)C=C 
+Ethyl benzene,CCC1=CC=CC=C1
+Ethyl chloride,CCCl  
+Ethyl methacrylate,CCOC(=O)C(=C)C
+Ethylene carbonate,C1COC(=O)O1  
+Formic-acid,C(=O)O  
+Furfuryl alcohol,C1=COC(=C1)CO  
+gamma-Butyrolactone,C1CC(=O)OC1 
+Glycerol,C(C(CO)O)O 
+Hexane,CCCCCC 
+Maleic anhydride,C1=CC(=O)OC1=O  
+Malononitrile,C(C#N)C#N  
+Methacrylic acid,CC(=C)C(=O)O  
+Methanol,CO  
+Methyl formamide,CC1=NC=C(C(=N1)N)CN(C=O)/C(=C(\CCO)/SSCC2CCCO2)/C  
+Methyl methacrylate,CC(=C)C(=O)OC  
+Methyl-ethyl-ketone,CCC(=O)C  
+Methyl-isobutyl-ketone,CC(C)CC(=O)C  
+"N,N-Dimethylacrylamide",CN(C)C(=O)C=C  
+n-Butanol,CCCCO  
+n-Butyl acrylate,CCCCOC(=O)C=C  
+n-Butyl methacrylate,CCCCOC(=O)C(=C)C  
+Neopentane,CC(C)(C)C  
+N-Methylpyrrolidinone,CN1CCCC1=O  
+n-Propanol,CCCO  
+o-Dichlorobenzene,C1=CC=C(C(=C1)Cl)Cl  
+Propiolactone,C1COC1=O 
+Propionic acid,CCC(=O)O  
+Propionitrile,CCC#N  
+Propylene carbonate,CC1COC(=O)O1  
+Styrene, C=CC1=CC=CC=C1  
+Succinic anhydride,C1CC(=O)OC1=O 
+Tetrahydrofuran,C1CCOC1  
+Tetrahydronaphthalene,C1CCC2=CC=CC=C2C1  
+Toluene,CC1=CC=CC=C1  
+y-Butyrolactone,C1CC(=O)OC1  
+Acetone,CC(=O)C  
+Cyclohexanone,C1CCC(=O)CC1  
+Dichlodifluoromethane,C(F)(F)(Cl)Cl
+Diethyl phthalate,CCOC(=O)C1=CC=CC=C1C(=O)OCC  
+Diethylether,CCOCC  
+Diisobutylketone,CC(C)CC(=O)CC(C)C 
+Dimethylacetamide,CC(=O)N(C)C  
+Dimethylsulfoxide,CS(=O)C  
+"1,4-Dioxane",C1COCCO1 
+Dipropylamine,CCCNCCC  
+Ethanol,CCO  
+Ethyl acrylate,CCOC(=O)C=C  
+Ethylchloride,CCCl  
+Ethylenecarbonate,C1COC(=O)O1
+Ethylmethacrylate,CCOC(=O)C(=C)C
+Formic acid,C(=O)O  
+Furfuryl alcohol,C1=COC(=C1)CO  
+N-Methylacetamide,CC(=O)NC  
+N-Methyl N-vinylacetamide,CC(=O)N(C)C=C  
+N-Methyl Pyrrolidinone,CN1CCCC1=O  
+"N,N dimethylacrylamide",CN(C)C(=O)C=C 
+o-Dichlorobenzene,C1=CC=C(C(=C1)Cl)Cl  
