@@ -1,0 +1,85 @@
+,Name,Smile
+0,"1,3- butadien",C=CC=CÂ Â 
+1,"1,3-BUTANEDIOL",CC(CCO)O
+3,1-Chlorobutane,Â CCCCClÂ Â 
+4,1-Pentanol,CCCCCOÂ Â 
+6,2-Ethyl-1-hexanol,CCCCC(CC)COÂ Â 
+7,2-Ethylhexyl acrylate,CCCCC(CC)COC(=O)C=CÂ Â 
+8,Acetic acid,CC(=O)OÂ Â 
+9,Acetone,Â CC(=O)CÂ Â 
+10,Acetonitrile,Â CC#NÂ Â 
+11,Acrylic acid,C=CC(=O)O
+12,Benzene,C1=CC=CC=C1Â Â 
+13,Carbon tetrachloride,Â C(Cl)(Cl)(Cl)ClÂ Â 
+14,Chlorobenzene,C1=CC=C(C=C1)ClÂ 
+15,Cyclohexane,C1CCCCC1Â Â 
+16,Cyclohexanol,C1CCC(CC1)O
+17,Cyclohexanone,Â C1CCC(=O)CC1Â 
+18,"Dichloro, difluoromethane",C(F)(F)(F)Cl.C(F)(F)(Cl)Cl.C(F)(F)(Cl)BrÂ Â 
+19,Di-ethyl amine,C.C.C.CC(C)N1CCC(C1)(F)F.CC(C)N([CH2-])CC[CH2-].CC(C)N(C[CH2-])C[CH2-].[W+2].[W+2]Â Â 
+20,Diethyl ether,Â CCOCCÂ Â 
+21,Diethyl phthalate,CCOC(=O)C1=CC=CC=C1C(=O)OCCÂ 
+22,Di-isobutyl-ketone,CC(C)CC(=O)CC(C)CÂ Â 
+23,Dimethyl sulfoxide,CS(=O)CÂ Â 
+24,Dimethylacetamide,CC(=O)N(C)CÂ Â 
+25,Dimethylformamide,CN(C)C=OÂ Â 
+26,Di-propyl amine,CCC[C@H]1[C@H](CCC2=C1C(=CC=C2)OC)NCCC.CON.ClÂ 
+27,Ethanol,Â CCOÂ Â 
+28,Ethyl acrylate,CCOC(=O)C=CÂ 
+29,Ethyl benzene,CCC1=CC=CC=C1
+30,Ethyl chloride,CCClÂ Â 
+31,Ethyl methacrylate,CCOC(=O)C(=C)C
+32,Ethylene carbonate,C1COC(=O)O1Â Â 
+33,Formic-acid,C(=O)OÂ Â 
+34,Furfuryl alcohol,C1=COC(=C1)COÂ Â 
+35,gamma-Butyrolactone,C1CC(=O)OC1Â 
+36,Glycerol,C(C(CO)O)OÂ 
+37,Hexane,CCCCCCÂ 
+38,Maleic anhydride,C1=CC(=O)OC1=OÂ Â 
+39,Malononitrile,C(C#N)C#NÂ Â 
+40,Methacrylic acid,CC(=C)C(=O)OÂ Â 
+41,Methanol,COÂ Â 
+42,Methyl formamide,CC1=NC=C(C(=N1)N)CN(C=O)/C(=C(\CCO)/SSCC2CCCO2)/CÂ Â 
+43,Methyl methacrylate,CC(=C)C(=O)OCÂ Â 
+44,Methyl-ethyl-ketone,CCC(=O)CÂ Â 
+45,Methyl-isobutyl-ketone,CC(C)CC(=O)CÂ Â 
+46,"N,N-Dimethylacrylamide",CN(C)C(=O)C=CÂ Â 
+47,n-Butanol,CCCCOÂ Â 
+48,n-Butyl acrylate,CCCCOC(=O)C=CÂ Â 
+49,n-Butyl methacrylate,CCCCOC(=O)C(=C)CÂ Â 
+50,Neopentane,CC(C)(C)CÂ Â 
+51,N-Methylpyrrolidinone,CN1CCCC1=OÂ Â 
+52,n-Propanol,CCCOÂ Â 
+53,o-Dichlorobenzene,C1=CC=C(C(=C1)Cl)ClÂ Â 
+54,Propiolactone,C1COC1=OÂ 
+55,Propionic acid,CCC(=O)OÂ Â 
+56,Propionitrile,CCC#NÂ Â 
+57,Propylene carbonate,CC1COC(=O)O1Â Â 
+58,Styrene,Â C=CC1=CC=CC=C1Â Â 
+59,Succinic anhydride,C1CC(=O)OC1=OÂ 
+60,Tetrahydrofuran,C1CCOC1Â Â 
+61,Tetrahydronaphthalene,C1CCC2=CC=CC=C2C1Â Â 
+62,Toluene,CC1=CC=CC=C1Â Â 
+63,y-Butyrolactone,C1CC(=O)OC1Â Â 
+64,Acetone,CC(=O)CÂ Â 
+65,Cyclohexanone,C1CCC(=O)CC1Â Â 
+66,Dichlodifluoromethane,C(F)(F)(Cl)Cl
+67,Diethyl phthalate,CCOC(=O)C1=CC=CC=C1C(=O)OCCÂ Â 
+68,Diethylether,CCOCCÂ Â 
+69,Diisobutylketone,CC(C)CC(=O)CC(C)CÂ 
+70,Dimethylacetamide,CC(=O)N(C)CÂ Â 
+71,Dimethylsulfoxide,CS(=O)CÂ Â 
+72,"1,4-Dioxane",C1COCCO1Â 
+73,Dipropylamine,CCCNCCCÂ Â 
+74,Ethanol,CCOÂ Â 
+75,Ethyl acrylate,CCOC(=O)C=CÂ Â 
+76,Ethylchloride,CCClÂ Â 
+77,Ethylenecarbonate,C1COC(=O)O1
+78,Ethylmethacrylate,CCOC(=O)C(=C)C
+79,Formic acid,C(=O)OÂ Â 
+80,Furfuryl alcohol,C1=COC(=C1)COÂ Â 
+81,N-Methylacetamide,CC(=O)NCÂ Â 
+82,N-Methyl N-vinylacetamide,CC(=O)N(C)C=CÂ Â 
+83,N-Methyl Pyrrolidinone,CN1CCCC1=OÂ Â 
+84,"N,N dimethylacrylamide",CN(C)C(=O)C=CÂ 
+85,o-Dichlorobenzene,C1=CC=C(C(=C1)Cl)ClÂ Â 
