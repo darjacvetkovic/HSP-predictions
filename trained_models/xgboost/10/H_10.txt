@@ -1,10 +1,10 @@
 nHBDon
 ETA_dEpsilon_D
-AMID_O
-nHBAcc
-TopoPSA
-NsOH
-ATSC1are
-SLogP
 AATSC0are
+nHBAcc
+NsOH
+TopoPSA
 nAtom
+ATSC1are
+AMID_O
+SLogP
