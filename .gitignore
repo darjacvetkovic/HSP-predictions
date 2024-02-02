@@ -1,0 +1,17 @@
+
+csv_to_excell.ipynb
+results/xgboost/Solvents_exp_filtered_descriptors.xlsx
+results/xgboost/data_from_6_filtered_descriptors.xlsx
+results/xgboost/data_from_42_filtered_descriptors.xlsx
+results/xgboost/50/Solvents_exp_filtered_predictions.xlsx
+results/xgboost/50/data_from_6_filtered_results.xlsx
+results/xgboost/50/data_from_42_filtered_results.xlsx
+results/xgboost/30/Solvents_exp_filtered_predictions.xlsx
+results/xgboost/30/data_from_6_filtered_results.xlsx
+results/xgboost/30/data_from_42_filtered_results.xlsx
+results/xgboost/10/Solvents_exp_filtered_predictions.xlsx
+results/xgboost/10/data_from_6_filtered_results.xlsx
+results/xgboost/10/data_from_42_filtered_results.xlsx
+results/gnn/Solvents_exp_filtered_predictions.xlsx
+results/gnn/data_from_6_filtered_predictions.xlsx
+results/gnn/data_from_42_filtered_predictions.xlsx
