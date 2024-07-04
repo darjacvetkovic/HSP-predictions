@@ -1,5 +1,5 @@
 # Hansen solubility parameter (HSP) predictions 
- XGBoost and GNN training and models for prediction of Hansen solubility parameters used in [link](https://doi.org/10.1016/j.chemolab.2024.105168).
+ XGBoost and GNN training and models for prediction of Hansen solubility parameters used in [https://doi.org/10.1016/j.chemolab.2024.105168](https://doi.org/10.1016/j.chemolab.2024.105168).
 Dependencies:
 
 - Python packages : `deepchem`, `mordred`, `pandas`, `hyperopt`, `rdkit` , `sklearn` , `xgboost`
